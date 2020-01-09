@@ -27,14 +27,6 @@
                     android:paddingBottom="@dimen/_15sdp"
                     android:orientation="horizontal">
 
-                <TextView
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:includeFontPadding="false"
-                        android:text="♡"
-                        android:textColor="#ED6C27"
-                        android:textSize="@dimen/_70sdp"
-                        android:textStyle="bold"/>
 
                 <TextView
                         android:layout_width="wrap_content"
